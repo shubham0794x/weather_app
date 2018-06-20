@@ -44,18 +44,18 @@
 
 5. To Get the Weather report of any City:
 
-        Enter the city
+       * Enter the city
         
-        Refresh the localhost server page to load the result
+       * Refresh the localhost server page to load the result
 
 
 
 # Improvement Point if I had more Time
 
-    Host the App in Heroku live server
-    Try to run the case where city could not be found
-    Further Improve the User Interface and User Design
-    Include more parameters and option for weather display
+  *  Host the App in Heroku live server
+  *  Try to run the case where city could not be found
+  *  Further Improve the User Interface and User Design
+  *  Include more parameters and option for weather display
     
     
 
