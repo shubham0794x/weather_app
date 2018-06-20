@@ -26,17 +26,21 @@
 2. Bundle Install : `To install all the dependencies`
 
 3. Database Configuration:
+
+
                ```  rm -f db/*.sqlite3   ```
                
               ```   rake db:create       ```
               
              ```    RAILS_ENV=development rake db:migrate  ```
-                     
+             
+             
 4. To start the rails server 
 
-     In Cloud9 IDE :  rails s -b $IP -p $PORT
+     In Cloud9 IDE :     rails s -b $IP -p $PORT
      
-     In Linux:     :  rails s
+     In Linux      :      rails s
+     
 
 5. To Get the Weather report of any City:
 
@@ -45,10 +49,13 @@
         Refresh the localhost server page to load the result
 
 
+
 # Improvement Point if I had more Time
 
     Host the App in Heroku live server
     Try to run the case where city could not be found
+    Further Improve the User Interface and User Design
+    Include more parameters and option for weather display
     
     
 
