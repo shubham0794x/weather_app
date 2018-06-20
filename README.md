@@ -50,7 +50,7 @@
 
 
 
-# Improvement Point if I had more Time
+# Improvement Points if I had more Time
 
   *  Host the App in Heroku live server
   *  Try to run the case where city could not be found
